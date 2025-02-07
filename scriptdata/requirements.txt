@@ -6,9 +6,9 @@ cffi==1.17.1
     # via pywayland
 libsass==0.23.0
     # via -r scriptdata/requirements.in
-#mahamane material-color-utilities==0.2.1
+material-color-utilities==0.2.1
     # via -r scriptdata/requirements.in
-materialyoucolor @ git+https://github.com/T-Dynamos/materialyoucolor-python.git@73080739dc7c46d378a7624881e9c1e6b20b23f1
+#mahamane materialyoucolor @ git+https://github.com/T-Dynamos/materialyoucolor-python.git@73080739dc7c46d378a7624881e9c1e6b20b23f1
     # via -r scriptdata/requirements.in
 numpy==2.2.2
     # via material-color-utilities
